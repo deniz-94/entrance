@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+	<title></title>
+	<style>
+	
+	
+		ul{
+		list-style-type:none;
+		margin:0;
+		padding:0;
+		background-color:#333;
+		overflow:hidden;
+		
+		}
+				li{
+				text-align:left;
+				float:left;
+				font-size:22px;
+				padding:10px;
+				}
+	li a{
+	color:white;
+	text-align:center;
+	padding:14px;
+	text-decoration:none;
+	}
+						li a:hover{
+						background-color:#111;
+							
+						}
+	.content{
+	text-align:center;
+	background-color:#F0FFFF;
+	margin:0 auto;
+	width;70%;
+	margin-top:20px;
+	overflow:hidden;
+	}
+		#inphotos{
+		widht:200px;
+		height:200px;
+		margin:20px;
+		float:left;
+	}
+	img{
+	widht:200px;
+	height:200px;
+	}
+	</style>
+</head>
+	<body>
+		<ul>
+	
+	<li><a href="">Ana Sayfa</a></li>	
+	<li><a href="">Haberler</a></li>
+	<li><a href="">Hakkımızda</a></li>
+	<li><a href="">İletişim</a></li>
+	<li style="float:right;font-size:18px;"><a href="mailto:aarda0837@gmail.com">aarda0837@gmail.com</a></li>
+	
+	
+		</ul>
+		
+	<div class="content"> 
+	Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. 
+		<div id="photos">
+			<div id="inphotos">
+		
+		
+		<div id="inphotos">
+		<img src="inphoto.jpg" />
+			</div>
+		<div id="inphotos">
+		<img src="inphoto1.jpg"/>
+			</div>
+		<div id="inphotos">
+		<img src="inphoto2.jpg" />
+			</div>
+		<div id="inphotos">
+		<img src="inphoto3.jpg" />
+			</div>
+		<div id="inphotos">
+		<img src="inphoto4.jpg"/>
+			</div>
+		<div id="inphotos">
+		<img src="inphoto.jpg"/>
+			</div>
+	
+	
+			</div>
+		</div>
+	</div>
+	</body>
+</html>
